@@ -1,6 +1,7 @@
 ---
 title: "Managing Expectations of AI Beyond Its Current Capabilities"
 date: 2023-05-17
+img: ai_expectations.png
 ---
 Artificial intelligence (AI) has captured the imagination of the public, sparking excitement and anticipation for its potential to transform our lives. However, while AI has made remarkable strides in recent years, there are still certain expectations that surpass its current capabilities. In this blog article, we will explore some of the common misconceptions and expectations people have of AI that may not be fully realized in the present reality.
 
