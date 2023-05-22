@@ -21,3 +21,7 @@ nav:
     url: /projects
   - title: Blog
     url: /blog
+# Customize the behavior of the theme (if supported)
+# Refer to the theme's documentation for available options
+theme_config:
+  show_downloads: true
