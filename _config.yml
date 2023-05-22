@@ -1,1 +1,21 @@
-theme: minima
+theme: jekyll-theme-cayman 
+# Plugins
+plugins:
+  - jekyll-feed # Enables generating an Atom feed for your site
+  - jekyll-sitemap # Generates a sitemap.xml for search engines
+
+# Build settings
+markdown: kramdown # Use Kramdown as the default Markdown engine
+exclude: [vendor] # Exclude the "vendor" directory from the build process
+
+# Custom navigation links
+# Customize the navigation menu by adding your own links
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+  - title: Blog
+    url: /blog
