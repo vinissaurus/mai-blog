@@ -1,4 +1,4 @@
 ---
-title: "Test Blog"
+title: "mAI blog"
 ---
 
