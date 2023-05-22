@@ -1,6 +1,7 @@
 ---
 title: "The Evolution of AI Generation: A Revolutionary Leap Beyond the Electronic Calculator"
 date: 2023-05-22
+img: calculator.png
 ---
 The first electronic calculator, introduced in the 1960s, marked a significant milestone in human history. It simplified complex mathematical calculations, transforming the way we work and compute. However, the advent of artificial intelligence (AI) generation represents an evolution even more profound and far-reaching than the humble beginnings of the electronic calculator. AI's capacity to learn, adapt, and generate human-like output has ushered in a new era of technology that transcends simple arithmetic. In this article, we will explore the revolutionary implications of AI generation, delving into its immense potential and the ways it is reshaping our world.
 

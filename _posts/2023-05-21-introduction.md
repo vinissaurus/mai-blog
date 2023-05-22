@@ -1,6 +1,7 @@
 ---
 title: "Leveraging the Power of GitHub Pages: Building Your Online Presence"
 date: 2023-05-21
+img: github_pages.png
 ---
 In today's digital world, having a strong online presence is crucial for individuals and businesses alike. Whether you're a developer showcasing your projects, a blogger sharing your thoughts, or a company promoting its products, having a website can significantly enhance your visibility and credibility. GitHub Pages, a free hosting service provided by GitHub, offers a simple yet powerful solution for building and hosting static websites directly from your GitHub repositories. In this blog post, we will explore the benefits of GitHub Pages and guide you through the process of creating and deploying your own website.
 
