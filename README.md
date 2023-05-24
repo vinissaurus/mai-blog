@@ -18,4 +18,4 @@ Welcome to the mAI-blog! This repository contains AI-generated articles and medi
 
 ## License
 
-This project is under the MIT License.
+This project is under the GPL-3.0 license.
